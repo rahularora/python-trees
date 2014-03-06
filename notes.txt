@@ -1,0 +1,10 @@
+Missing in cslibrary
+
+1. Search - done
+2. Deletion of a node - confused :S
+3. Find common ancestor given two nodes - done
+4. isBST? - done
+5. Tree balancing - red/black
+6. Heaps
+
+Will love to study ropes, tries, suffix tree
